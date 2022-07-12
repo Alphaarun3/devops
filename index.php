@@ -2,6 +2,6 @@
   <title>index</title>
   <body>
     <?php
-      echo "Hello This is the sample setup" ;
+      echo "Hello This setup is done checking DevOps1" ;
     ?>
 </html>
